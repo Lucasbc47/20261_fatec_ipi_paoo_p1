@@ -1,6 +1,4 @@
-# Prova P1 — Programação Avançada Orientada a Objetos
-
-**Fatec Ipiranga — Professor Rodrigo Bossini**
+# Prova PAOO - P1 - FATEC IPIRANGA
 
 ## Integrantes
 
