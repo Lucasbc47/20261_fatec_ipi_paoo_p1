@@ -8,8 +8,3 @@
 | ------------- | ------------- |
 | Gabriel Rossi | 2040482422003 |
 | Lucas Costa   | 2040482422042 |
-
-```bash
-npm install
-node index.js
-```
